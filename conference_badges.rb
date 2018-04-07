@@ -65,4 +65,3 @@ def printer(attendees)
     end
     puts arr2
 end
-
