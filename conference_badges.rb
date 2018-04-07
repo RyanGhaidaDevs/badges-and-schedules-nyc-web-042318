@@ -63,5 +63,5 @@ def printer(attendees)
         puts arr2[r]
         r += 1
     end
-    puts arr2
+    return arr2
 end
