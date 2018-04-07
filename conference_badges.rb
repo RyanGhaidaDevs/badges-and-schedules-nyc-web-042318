@@ -59,8 +59,8 @@ def printer(attendees)
     end
     r = 0
     while r <attendees.length
-        puts arr[r]
-        puts arr2[r]
+        arr[r]
+        arr2[r]
         r += 1
     end
     return arr2
